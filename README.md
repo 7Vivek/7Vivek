@@ -2,7 +2,7 @@
 
 <h1> 👋 hi, I'm Vivek </h1> 
 
-<h4>ASPIRING DATA SCIENTIST</h4>
+<h3>ASPIRING DATA SCIENTIST</h3>
 
 <h3><i>Currently Pursuing Masters in Data Science & Business Analytics.</i></h3>
 
