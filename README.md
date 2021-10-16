@@ -3,8 +3,7 @@
   
 ![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
 [![GitHub followers](https://img.shields.io/github/followers/7Vivek.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/7Vivek?tab=followers)
-  
-  
+    
 </div>
 
 <h4 align="center">ASPIRING DATA SCIENTIST</h4>
@@ -29,8 +28,6 @@
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
 
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
-
-[![Sparkline](https://stars.medv.io/7Vivek/badges.svg)](https://stars.medv.io/7Vivek/badges)
 
 </div>
 
