@@ -33,10 +33,9 @@
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
 
 </div>
-
 </br>
 
-<h2 align="center"> ✒ Languages and Tools </h2>
+<h2 align="center"> ✒ Languages and Tools 🛠 </h2>
 <div align = "center">
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
