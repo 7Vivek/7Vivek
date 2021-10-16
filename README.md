@@ -1,7 +1,10 @@
+<div align = "center">
 <h1 align="center">Hi 👋, I'm Vivek</h1>
+  
+![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
+</div>
 
 <h4 align="center">ASPIRING DATA SCIENTIST</h4>
-
 <h3 align="center"><i>Currently Pursuing Masters in Data Science & Business Analytics.</i></h3>
 </br>
 
@@ -11,9 +14,17 @@
 <p>I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.</p>
 </br>
 
+<div align = "center">
+
+<h2> GitHub Activity 🚀 </h2>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark)](https://github.com/7Vivek/7Vivek)  
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark)
+<a href="https://github.com/7Vivek/7Vivek"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/7Vivek/7Vivek"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark"></a>
+</br></br>
+<a href="https://github.com/7Vivek/7Vivek"><img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
+
+[![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
+</div>
 
 </br>
 
