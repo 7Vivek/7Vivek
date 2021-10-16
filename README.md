@@ -7,11 +7,18 @@
 
 <img align = "left" src="https://user-images.githubusercontent.com/77670138/137456195-9ee9b879-dd2e-4976-8609-b6d40eae057c.png" style="width:150px;height:150px;">    
 
-<h2>♟️ OBJECTIVE</h2>
+<h2>♟️ OBJECTIVE </h2>
 <p>I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.</p>
 </br>
 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark)](https://github.com/7Vivek/7Vivek)  
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark)
+
+</br>
+
 <h2 align="center"> ✒ Languages and Tools </h2>
+<div align = "center">
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -35,4 +42,5 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![img](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![img](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+ </div>
 
