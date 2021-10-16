@@ -3,8 +3,8 @@
   
 ![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
 [![GitHub followers](https://img.shields.io/github/followers/7Vivek.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/7Vivek?tab=followers)
+[![Years Badge](https://badges.pufler.dev/years/7Vivek?color=0d98ba)](https://badges.pufler.dev)
   
-    
 </div>
 
 <h4 align="center">ASPIRING DATA SCIENTIST</h4>
@@ -21,15 +21,14 @@
 
 <h2> GitHub Activity 🚀</h2>
   
-![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/7Vivek?color=41B883)  
-  
+![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/7Vivek?color=41B883)
+[![Repos Badge](https://badges.pufler.dev/repos/7Vivek?color=0d98ba)](https://badges.pufler.dev)
+
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark"></a>
 </br></br>
 <a href="https://github.com/7Vivek/7Vivek"><img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
 <img align = "right" src="https://user-images.githubusercontent.com/77670138/137580081-a28dc3c4-036e-4e84-88fb-8c2e99a194a1.gif" style="width:300px;height:220px;">    
-
-
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
 
 </div>
