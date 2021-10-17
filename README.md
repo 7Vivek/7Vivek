@@ -24,13 +24,11 @@
 <h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
 <h4> Check out full project here : </h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA)](https://github.com/7Vivek/Community-Android-Application-KDA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark)](https://github.com/7Vivek/Community-Android-Application-KDA)
 
-<h4> 📃 Documentation </h4>
+📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
 
-[Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
-
-
+<img align = "center" src="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4" style="width:280px;height:200px;"></img>    
 
 
 
@@ -45,7 +43,7 @@
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark"></a>
 </br></br>
 <a href="https://github.com/7Vivek/7Vivek"><img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
-<img align = "center" src="https://user-images.githubusercontent.com/77670138/137580081-a28dc3c4-036e-4e84-88fb-8c2e99a194a1.gif" style="width:280px;height:200px;">    
+<img align = "center" src="https://user-images.githubusercontent.com/77670138/137580081-a28dc3c4-036e-4e84-88fb-8c2e99a194a1.gif" style="width:280px;height:200px;"></img>    
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
 </div>
 
@@ -75,7 +73,6 @@
 ![img](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![img](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
  </div>
-
 
  <h2 align="left">🤝🏻 Connect with Me </h2>
  
