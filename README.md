@@ -15,13 +15,13 @@
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
-
+  
+<a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark"></a>
+  
 <h3 align = "left"><b>01.</b> Developed Community Application <i>2019 - 2020</i></h3>
 <h4> <i>Worked as Android App Developer </i> </h4>
 <h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
 <h4> Check out full project here : </h4>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark)](https://github.com/7Vivek/Community-Android-Application-KDA)
 
 📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
 
@@ -46,7 +46,7 @@
 <h2 align="center"> 📚 Top Repositories </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Dimensionality-Reduction-Dry-Beans-&theme=react)](https://github.com/7Vivek/Dimensionality-Reduction-Dry-Beans-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=40-machine-learning-models-using-Lazy-Predict.&theme=jolly)](https://github.com/7Vivek/40-machine-learning-models-using-Lazy-Predict.)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Data-Visualization-Techniques&theme=jolly)](https://github.com/7Vivek/Data-Visualization-Techniques)
 </div>
 
 <h2 align="center"> ✒ Languages and Tools 🛠 </h2>
