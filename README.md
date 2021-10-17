@@ -46,7 +46,7 @@
 <h2 align="center"> 📚 Top Repositories </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Dimensionality-Reduction-Dry-Beans-&theme=react)](https://github.com/7Vivek/Dimensionality-Reduction-Dry-Beans-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=How-important-is-feature-selection.&theme=jolly)](https://github.com/7Vivek/How-important-is-feature-selection.)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=40-machine-learning-models-using-Lazy-Predict.&theme=jolly)](https://github.com/7Vivek/40-machine-learning-models-using-Lazy-Predict.)
 </div>
 
 <h2 align="center"> ✒ Languages and Tools 🛠 </h2>
