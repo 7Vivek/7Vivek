@@ -15,19 +15,18 @@
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
-  
-<a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark"></a>
-  
+<a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark"></a>
 <h3 align = "left"><b>01.</b> Developed Community Application <i>2019 - 2020</i></h3>
 <h4> <i>Worked as Android App Developer </i> </h4>
 <h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
-<h4> Check out full project here : </h4>
 
 📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
 
+<h4 align = "center">Click to see <a href="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4"> Working Demo (UI/UX)</a></h4>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align = "center">
-
 <h2> GitHub Activity 🚀</h2> 
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/7Vivek?color=41B883)
