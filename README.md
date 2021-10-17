@@ -15,6 +15,23 @@
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
+
+<a href="https://github.com/7Vivek/Amazon-Case-Study"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Amazon-Case-Study&theme=prussian"></a>
+<h3 align = "left"><b>02.</b> Amazon-Case-Study </h3>
+<h4> <i> This statistical analysis had the following goals:</i></h4>
+
+- Perform exploratory analysis of ratings and reviews
+- Find out relationship between price and the number of reviews
+- Find out relationship between helpfulness of review and length of review
+- Find out relationship between review length and product price
+- Find out relationship between review length and product rating
+- Find out relationship between product price and product rating
+- Word cloud of most-used words
+- Sentiment analysis
+
+📃 [Documentation](https://github.com/7Vivek/Amazon-Case-Study/blob/main/Amazon%20Case%20Study.pdf)
+<hr></hr>
+
 <a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark"></a>
 <h3 align = "left"><b>01.</b> Developed Community Application <i>2019 - 2020</i></h3>
 <h4> <i>Worked as Android App Developer </i> </h4>
