@@ -15,16 +15,14 @@
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
-<a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark"></a>
+<a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark"></a>
 <h3 align = "left"><b>01.</b> Developed Community Application <i>2019 - 2020</i></h3>
 <h4> <i>Worked as Android App Developer </i> </h4>
 <h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
 
 📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
-
 <h4 align = "center">Click to see <a href="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4"> Working Demo (UI/UX)</a></h4>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr></hr>
 
 <div align = "center">
 <h2> GitHub Activity 🚀</h2> 
@@ -39,14 +37,15 @@
 <img align = "center" src="https://user-images.githubusercontent.com/77670138/137580081-a28dc3c4-036e-4e84-88fb-8c2e99a194a1.gif" style="width:280px;height:200px;"></img>    
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
 </div>
+</br>
 
 <div align = "center">
-  
 <h2 align="center"> 📚 Top Repositories </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Dimensionality-Reduction-Dry-Beans-&theme=react)](https://github.com/7Vivek/Dimensionality-Reduction-Dry-Beans-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Data-Visualization-Techniques&theme=jolly)](https://github.com/7Vivek/Data-Visualization-Techniques)
 </div>
+</br>
 
 <h2 align="center"> ✒ Languages and Tools 🛠 </h2>
 <div align = "center">
@@ -74,7 +73,7 @@
 ![img](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![img](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
  </div>
-
+ </br>
  <h2 align="left">🤝🏻 Connect with Me </h2>
  
  [![LinkedIn](https://img.shields.io/badge/VivekLimbad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-limbad-412667215/)
