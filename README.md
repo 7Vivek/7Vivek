@@ -17,13 +17,29 @@
 <p>I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.</p>
 </br>
 
+<h2 align="center"> 📑 Portfolio </h2>
+
+<h3 align = "left"><b>01.</b> Developed Community Application <i>2019 - 2020</i></h3>
+<h4> <i>Worked as Android App Developer </i> </h4>
+<h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
+<h4> Check out full project here : </h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA)](https://github.com/7Vivek/Community-Android-Application-KDA)
+
+<h4> 📃 Documentation </h4>
+
+[Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
+
+
+
+
+
 <div align = "center">
 
-<h2> GitHub Activity 🚀</h2>
+<h2> GitHub Activity 🚀</h2> 
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/7Vivek?color=41B883)
-![Repos Badge](https://badges.pufler.dev/repos/7Vivek?color=0d98ba)
-
+![Repos Badge](https://badges.pufler.dev/repos/7Vivek?color=0d98ba) 
   
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark"></a>
@@ -31,9 +47,7 @@
 <a href="https://github.com/7Vivek/7Vivek"><img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
 <img align = "center" src="https://user-images.githubusercontent.com/77670138/137580081-a28dc3c4-036e-4e84-88fb-8c2e99a194a1.gif" style="width:280px;height:200px;">    
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
-
 </div>
-</br>
 
 <h2 align="center"> ✒ Languages and Tools 🛠 </h2>
 <div align = "center">
@@ -61,6 +75,7 @@
 ![img](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![img](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
  </div>
+
 
  <h2 align="left">🤝🏻 Connect with Me </h2>
  
