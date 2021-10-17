@@ -23,11 +23,8 @@
 - Perform exploratory analysis of ratings and reviews
 - Find out relationship between price and the number of reviews
 - Find out relationship between helpfulness of review and length of review
-- Find out relationship between review length and product price
-- Find out relationship between review length and product rating
-- Find out relationship between product price and product rating
-- Word cloud of most-used words
-- Sentiment analysis
+- Find out relationship between review length and product price <b>&</b> Find out relationship between review length and product rating
+- Find out relationship between product price and product rating <b>&</b> Word cloud of most-used words <b>&</b> Sentiment analysis
 
 📃 [Documentation](https://github.com/7Vivek/Amazon-Case-Study/blob/main/Amazon%20Case%20Study.pdf)
 <hr></hr>
