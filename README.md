@@ -4,15 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
 [![GitHub followers](https://img.shields.io/github/followers/7Vivek.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/7Vivek?tab=followers)
 [![Years Badge](https://badges.pufler.dev/years/7Vivek?color=0d98ba)](https://badges.pufler.dev)
-  
 </div>
 
 <h4 align="center">ASPIRING DATA SCIENTIST</h4>
 <h3 align="center"><i>Currently Pursuing Masters in Data Science & Business Analytics.</i></h3>
 </br>
-
-<img align = "left" src="https://user-images.githubusercontent.com/77670138/137456195-9ee9b879-dd2e-4976-8609-b6d40eae057c.png" style="width:150px;height:150px;">    
-
+<img align = "left" src="https://user-images.githubusercontent.com/77670138/137456195-9ee9b879-dd2e-4976-8609-b6d40eae057c.png" style="width:150px;height:150px;"></img>    
 <h2>♟️ OBJECTIVE </h2>
 <p>I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.</p>
 </br>
@@ -28,9 +25,6 @@
 
 📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
 
-<img align = "center" src="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4" style="width:280px;height:200px;"></img>    
-
-
 
 <div align = "center">
 
@@ -45,6 +39,14 @@
 <a href="https://github.com/7Vivek/7Vivek"><img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
 <img align = "center" src="https://user-images.githubusercontent.com/77670138/137580081-a28dc3c4-036e-4e84-88fb-8c2e99a194a1.gif" style="width:280px;height:200px;"></img>    
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
+</div>
+
+<div align = "center">
+  
+<h2 align="center"> 📚 Top Repositories </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Dimensionality-Reduction-Dry-Beans-&theme=react)](https://github.com/7Vivek/Dimensionality-Reduction-Dry-Beans-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=How-important-is-feature-selection.&theme=jolly)](https://github.com/7Vivek/How-important-is-feature-selection.)
 </div>
 
 <h2 align="center"> ✒ Languages and Tools 🛠 </h2>
