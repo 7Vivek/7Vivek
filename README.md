@@ -16,7 +16,22 @@
 
 <h2 align="center"> 📑 Portfolio </h2>
 
-<a href="https://github.com/7Vivek/Amazon-Case-Study"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Amazon-Case-Study&theme=prussian"></a>
+<a href="https://github.com/7Vivek/User-Response-Prediction-System"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=User-Response-Prediction-System&theme=yeblu"></a>
+<h3 align = "left"><b>03.</b> User-Response-Prediction-System <i>2020</i></h3>
+<h4><i>iNeuron Internship Project</i></h4>
+<b>Technologies :</b> AI <br>
+<b>Domain :</b> Media<br>
+<b>Project Difficulties level :</b> Advance
+<br>
+<br>
+
+📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
+<br>
+🎞 [Wireframe](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
+<h4 align = "center"> ✔ Application is hosted on Heroku. You can see the <a href="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4"> Demo </a></h4>
+<hr></hr>
+
+<a href="https://github.com/7Vivek/Amazon-Case-Study"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Amazon-Case-Study&theme=algolia"></a>
 <h3 align = "left"><b>02.</b> Amazon-Case-Study </h3>
 <h4> <i> This statistical analysis had the following goals:</i></h4>
 
@@ -29,7 +44,7 @@
 📃 [Documentation](https://github.com/7Vivek/Amazon-Case-Study/blob/main/Amazon%20Case%20Study.pdf)
 <hr></hr>
 
-<a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=vue-dark"></a>
+<a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=dark"></a>
 <h3 align = "left"><b>01.</b> Developed Community Application <i>2019 - 2020</i></h3>
 <h4> <i>Worked as Android App Developer </i> </h4>
 <h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
