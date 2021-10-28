@@ -25,10 +25,10 @@
 <br>
 <br>
 
-📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
+📃 [Documentation](https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Documentation/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf)
 <br>
-🎞 [Wireframe](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
-<h4 align = "center"> ✔ Application is hosted on Heroku. You can see the <a href="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4"> Demo </a></h4>
+🎞 [Wireframe](https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Documentation/Wireframe%20Documentation.pdf)
+<h4 align = "center"> ✔ Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/"> Demo </a></h4>
 <hr></hr>
 
 <a href="https://github.com/7Vivek/Amazon-Case-Study"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Amazon-Case-Study&theme=algolia"></a>
