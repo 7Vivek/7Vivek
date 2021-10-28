@@ -42,7 +42,9 @@
 <h2> GitHub Activity 🚀</h2> 
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/7Vivek?color=41B883)
-![Repos Badge](https://badges.pufler.dev/repos/7Vivek?color=0d98ba) 
+![Repos Badge](https://badges.pufler.dev/repos/7Vivek?color=0d98ba)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/7Vivek/7Vivek?color=%230CBAA6%20)  
+![GitHub contributors](https://img.shields.io/github/contributors/7Vivek/7Vivek?color=%230d98ba)  
   
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark"></a>
