@@ -17,6 +17,7 @@
 <h2 align="center"> 📑 Portfolio </h2>
 
 <a href="https://github.com/7Vivek/User-Response-Prediction-System"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=User-Response-Prediction-System&theme=yeblu"></a>
+
 <h3 align = "left"><b>03.</b> User-Response-Prediction-System <i>2020</i></h3>
 <h4><i>iNeuron Internship Project</i></h4>
 <b>Technologies :</b> AI <br>
