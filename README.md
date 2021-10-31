@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
   
 ![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
-[![GitHub followers](https://img.shields.io/github/followers/7Vivek.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/7Vivek?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/7Vivek?style=social)
 [![Years Badge](https://badges.pufler.dev/years/7Vivek?color=0d98ba)](https://badges.pufler.dev)
+![GitHub Repo stars](https://img.shields.io/github/stars/7Vivek/7Vivek?style=social)
 </div>
 
 <h4 align="center">ASPIRING DATA SCIENTIST</h4>
@@ -13,6 +14,12 @@
 <h2>♟️ OBJECTIVE </h2>
 <p>I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.</p>
 </br>
+
+<div align = "center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=7Vivek&theme=flat)  
+</div>  
+
 
 <h2 align="center"> 📑 Portfolio </h2>
 
