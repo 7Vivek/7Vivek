@@ -15,12 +15,6 @@
 <p>I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.</p>
 </br>
 
-<div align = "center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=7Vivek&theme=flat)  
-</div>  
-
-
 <h2 align="center"> 📑 Portfolio </h2>
 
 <a href="https://github.com/7Vivek/User-Response-Prediction-System"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=User-Response-Prediction-System&theme=yeblu"></a>
@@ -69,7 +63,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/7Vivek?color=23AA8F)
 ![Repos Badge](https://badges.pufler.dev/repos/7Vivek?color=007882)
 ![Relative date](https://img.shields.io/date/1635386951?color=5B798A)  
-    
+![trophy](https://github-profile-trophy.vercel.app/?username=7Vivek&theme=flat)      
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark"></a>
 </br></br>
