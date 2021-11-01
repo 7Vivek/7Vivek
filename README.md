@@ -33,17 +33,13 @@
 <h4 align = "center"> ✔ Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/"> Demo </a></h4>
 <hr></hr>
 
-<a href="https://github.com/7Vivek/Amazon-Case-Study"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Amazon-Case-Study&theme=algolia"></a>
-<h3 align = "left"><b>02.</b> Amazon-Case-Study </h3>
-<h4> <i> This statistical analysis had the following goals:</i></h4>
+<a href="https://github.com/7Vivek/Next-Word-Prediction-Streamlit"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Next-Word-Prediction-Streamlit&theme=algolia"></a>
+<h3 align = "left"><b>02.</b> Next-Word-Prediction </h3>
+<h4> <i> Keywords : Streamlit, BertTokenizer, BertForMaskedLM, Pytorch</i></h4>
 
-- Perform exploratory analysis of ratings and reviews
-- Find out relationship between price and the number of reviews
-- Find out relationship between helpfulness of review and length of review
-- Find out relationship between review length and product price <b>&</b> Find out relationship between review length and product rating
-- Find out relationship between product price and product rating <b>&</b> Word cloud of most-used words <b>&</b> Sentiment analysis
-
-📃 [Documentation](https://github.com/7Vivek/Amazon-Case-Study/blob/main/Amazon%20Case%20Study.pdf)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
+<br><br>
+<h4 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py">Demo</a></h4>
 <hr></hr>
 
 <a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=dark"></a>
@@ -52,7 +48,7 @@
 <h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
 
 📃 [Documentation](https://github.com/7Vivek/Community-Android-Application-KDA/blob/main/Documentation.pdf)
-<h4 align = "center">Click to see <a href="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4"> Working Demo (UI/UX)</a></h4>
+<h4 align = "center">✔ Click to see <a href="https://user-images.githubusercontent.com/77670138/135710907-01479f8b-e2ee-4267-8ea3-2163de2b6a52.mp4"> Working Demo (UI/UX)</a></h4>
 <hr></hr>
 
 <div align = "center">
@@ -78,10 +74,10 @@
 <div align = "center">
 <h2 align="center"> 📚 Top Repositories </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Dimensionality-Reduction-Dry-Beans-&theme=react)](https://github.com/7Vivek/Dimensionality-Reduction-Dry-Beans-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Data-Visualization-Techniques&theme=jolly)](https://github.com/7Vivek/Data-Visualization-Techniques)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Amazon-Case-Study&theme=material-palenight)](https://github.com/7Vivek/Amazon-Case-Study)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Data-Visualization-Techniques&theme=ayu-mirage)](https://github.com/7Vivek/Data-Visualization-Techniques)
 </div>
-</br>
+<br>
 
 <h2 align="center"> ✒ Languages and Tools 🛠 </h2>
 <div align = "center">
