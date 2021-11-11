@@ -1,5 +1,7 @@
 <div align = "center">
 <img align = "center" src="https://demo.qodeinteractive.com/simplicity/wp-content/uploads/2013/08/header5.png" style="width:1920px;height:75px;"></img>
+<img align = "center" src="https://synergyland.ca/wp-content/uploads/2021/04/mountain-range-footer-01-1536x161.png" style="width:1536px;height:75px;"></img>
+
 <h1 align="center">Hi 👋, I'm Vivek</h1>
   
 ![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
