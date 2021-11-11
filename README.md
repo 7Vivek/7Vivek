@@ -1,7 +1,5 @@
 <div align = "center">
-<img align = "center" src="https://demo.qodeinteractive.com/simplicity/wp-content/uploads/2013/08/header5.png" style="width:1920px;height:75px;"></img>
 <img align = "center" src="https://synergyland.ca/wp-content/uploads/2021/04/mountain-range-footer-01-1536x161.png" style="width:1536px;height:75px;"></img>
-
 <h1 align="center">Hi 👋, I'm Vivek</h1>
   
 ![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
@@ -114,6 +112,4 @@
  [![LinkedIn](https://img.shields.io/badge/VivekLimbad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-limbad-412667215/)
  </br>
  [![Gmail](https://img.shields.io/badge/viveklimbad1010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
- 
- <img align = "right" src="https://i1.wp.com/www.bikepacking.com/wp-content/themes/pedalingnowhere/img/v4/bikepacking-scene_footer.png" style="width:1400px;height:60px;"></img>
-
+<img align = "center" src="https://synergyland.ca/wp-content/uploads/2021/04/mountain-range-footer-01-1536x161.png" style="width:1536px;height:75px;"></img>
