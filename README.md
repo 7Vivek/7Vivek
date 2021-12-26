@@ -17,14 +17,12 @@
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
-</br>
 
 <a href="https://github.com/7Vivek/Face-detection-analysis"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Face-detection-analysis&theme=jolly"></a>
 <h3 align = "left"><b>04.</b> Face Detection Analysis Application </h3>
 <h4><i>Face detection and facial feature analysis application using streamlit, opencv and deepface.</i></h4>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/7vivek/face-detection-analysis/main/app.py)
-<br><br>
 <h4 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/face-detection-analysis/main/app.py">Demo</a></h4>
 <hr></hr>
 
