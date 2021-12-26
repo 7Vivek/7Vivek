@@ -17,10 +17,20 @@
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
+</br>
+
+<a href="https://github.com/7Vivek/Face-detection-analysis"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Face-detection-analysis&theme=jolly"></a>
+<h3 align = "left"><b>04.</b> Face Detection Analysis Application </h3>
+<h4><i>Face detection and facial feature analysis application using streamlit, opencv and deepface.</i></h4>
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/7vivek/face-detection-analysis/main/app.py)
+<br><br>
+<h4 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/face-detection-analysis/main/app.py">Demo</a></h4>
+<hr></hr>
 
 <a href="https://github.com/7Vivek/User-Response-Prediction-System"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=User-Response-Prediction-System&theme=yeblu"></a>
 
-<h3 align = "left"><b>03.</b> User-Response-Prediction-System <i>2020</i></h3>
+<h3 align = "left"><b>03.</b> User Response Prediction System <i>(2021)</i></h3>
 <h4><i>iNeuron Internship Project</i></h4>
 <b>Technologies :</b> AI <br>
 <b>Domain :</b> Media<br>
@@ -35,7 +45,7 @@
 <hr></hr>
 
 <a href="https://github.com/7Vivek/Next-Word-Prediction-Streamlit"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Next-Word-Prediction-Streamlit&theme=algolia"></a>
-<h3 align = "left"><b>02.</b> Next-Word-Prediction </h3>
+<h3 align = "left"><b>02.</b> Next Word Prediction </h3>
 <h4> <i> Keywords : Streamlit, BertTokenizer, BertForMaskedLM, Pytorch</i></h4>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
@@ -44,7 +54,7 @@
 <hr></hr>
 
 <a href="https://github.com/7Vivek/Community-Android-Application-KDA"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7Vivek&repo=Community-Android-Application-KDA&theme=dark"></a>
-<h3 align = "left"><b>01.</b> Developed Community Application <i>2019 - 2020</i></h3>
+<h3 align = "left"><b>01.</b> Developed Community Application <i>(2019 - 2020)</i></h3>
 <h4> <i>Worked as Android App Developer </i> </h4>
 <h4> Community Name : Kanara Daivadnya Association Mumbai. </h4>
 
