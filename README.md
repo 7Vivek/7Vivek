@@ -74,7 +74,8 @@
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=7Vivek&show_icons=true&theme=vue-dark"></a>
 </br></br>
-<a href="https://github.com/7Vivek/7Vivek"><img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
+<a href="https://github.com/7Vivek/7Vivek"><img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
+</br></br>
 [![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
 </div>
 </br>
