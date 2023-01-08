@@ -7,7 +7,7 @@
 </div>
 
 <h4 align="center">ASPIRING DATA SCIENTIST</h4>
-<h3 align="center"><i>Currently Pursuing Masters in Data Science & Business Analytics.</i></h3>
+<h3 align="center"><i>ASPIRING DATA SCIENTIST</i></h3>
 </br>
 <img align = "left" src="https://user-images.githubusercontent.com/77670138/137456195-9ee9b879-dd2e-4976-8609-b6d40eae057c.png" style="width:150px;height:150px;"></img>    
 <h2>♟️ OBJECTIVE </h2>
