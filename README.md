@@ -10,7 +10,7 @@
 </br>
 <img align = "left" src="https://user-images.githubusercontent.com/77670138/137456195-9ee9b879-dd2e-4976-8609-b6d40eae057c.png" style="width:150px;height:150px;"></img>    
 <h2>♟️ OBJECTIVE </h2>
-<p>Simple But Significant</p>
+<p>Look for a real and big problem, and even if its difficult to solve it, you should use all your energy to solve it to make India and this world a better place</p>
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
