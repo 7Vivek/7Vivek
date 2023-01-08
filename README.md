@@ -114,5 +114,4 @@
  <h2 align="left">🤝🏻 Connect with Me </h2>
  
  [![LinkedIn](https://img.shields.io/badge/VivekLimbad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-limbad-412667215/)
- </br>
  [![Gmail](https://img.shields.io/badge/viveklimbad1010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
