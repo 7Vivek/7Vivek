@@ -4,7 +4,6 @@
   
 ![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
 ![GitHub followers](https://img.shields.io/github/followers/7Vivek?style=social)
-[![Years Badge](https://badges.pufler.dev/years/7Vivek?color=0d98ba)](https://badges.pufler.dev)
 ![GitHub Repo stars](https://img.shields.io/github/stars/7Vivek/7Vivek?style=social)
 </div>
 
@@ -66,7 +65,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/7Vivek/7Vivek?color=FEEC37)
 ![GitHub contributors](https://img.shields.io/github/contributors/7Vivek/7Vivek?color=7FE25A)
 ![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/7Vivek?color=23AA8F)
-![Repos Badge](https://badges.pufler.dev/repos/7Vivek?color=007882)
 ![Relative date](https://img.shields.io/date/1635386951?color=5B798A) 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=7Vivek&theme=flat)  
@@ -76,7 +74,6 @@
 </br></br>
 <a href="https://github.com/7Vivek/7Vivek"><img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vivek&theme=vue-dark"></a>
 </br></br>
-[![Vivek's github activity graph](https://activity-graph.herokuapp.com/graph?username=7Vivek&theme=nord&border_radius=100)](https://github.com/7Vivek/7Vivek)
 </div>
 </br>
 
