@@ -6,7 +6,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/7Vivek/7Vivek?style=social)
 </div>
 
-<h3 align="center"><i>ASPIRING DATA SCIENTIST</i></h3>
+<h3 align="center"><i>DATA SCIENTIST & ANALYST</i></h3>
 </br>
 <img align = "left" src="https://user-images.githubusercontent.com/77670138/137456195-9ee9b879-dd2e-4976-8609-b6d40eae057c.png" style="width:150px;height:150px;"></img>    
 <h2>♟️ OBJECTIVE </h2>
