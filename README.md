@@ -10,9 +10,7 @@
 </br>
 <img align = "left" src="https://user-images.githubusercontent.com/77670138/137456195-9ee9b879-dd2e-4976-8609-b6d40eae057c.png" style="width:150px;height:150px;"></img>    
 <h2>♟️ OBJECTIVE </h2>
-<p>I´m the type of person if you ask me a question, and I don´t know the answer, 
-  I´m gonna tell you that I don´t know. But I bet you what. 
-  I know how to find the answer, and I will find the answer.</p>
+<p>Make meaning and rest everything will follow</p>
 </br>
 
 <h2 align="center"> 📑 Portfolio </h2>
